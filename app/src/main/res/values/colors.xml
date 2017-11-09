@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#06541f</color>
+    <color name="colorPrimaryDark">#074e1e</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="orange">#FF3909</color>
+    <color name="colorAccentDark">#00B482</color>
+
+    <color name="colorBlack">#555555</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrey">#707070</color>
+    <color name="colorGreyLight">#8A8A8A</color>
+
+    <color name="white">#ffffff</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>
+
+    <color name="indigo">#381d68</color>
+    <color name="pink">#c2024f</color>
+</resources>
